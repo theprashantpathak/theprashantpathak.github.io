@@ -20,7 +20,7 @@ const components = {
       <h1>Prashant Pathak</h1>
       <p>Assistant Professor,<br> CSE, GCOE Kolhapur,<br>Maharashtra, India</p>
       <ul class="contact-list">
-        <li><a href="mailto:prashant.pathak@gcoekolhapur.ac.in"><span class="link-icon" aria-hidden="true">&#9993;</span>prashant.pathak@gcoeKolhapur.ac.in</a></li>
+        <li><a href="mailto:prashant.pathak@gcoekolhapur.ac.in"><span class="link-icon" aria-hidden="true">&#9993;</span>prashant.pathak@gcoekolhapur.ac.in</a></li>
         <li><a href="#"><span class="link-icon link-icon-scholar" aria-hidden="true">GS</span>Google Scholar</a></li>
         <li><a href="#"><span class="link-icon link-icon-linkedin" aria-hidden="true">in</span>LinkedIn</a></li>
       </ul>
