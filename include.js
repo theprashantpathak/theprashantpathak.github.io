@@ -1,7 +1,7 @@
 const components = {
   header: `
     <header class="site-header">
-      <a class="site-title" href="index.html#about"></a>
+      <a class="site-title" href="index.html#about">Prashant Pathak</a>
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-navigation">
         <span class="menu-icon" aria-hidden="true"></span>
         <span class="menu-label">Menu</span>
