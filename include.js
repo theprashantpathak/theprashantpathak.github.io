@@ -16,7 +16,7 @@ const components = {
     </header>`,
   sidebar: `
     <aside class="sidebar">
-      <div class="photo-placeholder"><img src="photo.JPEG" alt="Prashant Pathak"></div>
+      <div class="photo-placeholder"><img src="photo.png" alt="Prashant Pathak"></div>
       <h1>Prashant Pathak</h1>
       <p>Assistant Professor,<br> CSE, GCOE Kolhapur,<br>Maharashtra, India</p>
       <ul class="contact-list">
